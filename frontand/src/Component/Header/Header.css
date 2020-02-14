@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background: gold;
+    border-radius: 20px;
+    padding: 10px;
+}
+.imgHeader{
+    width: 150px;
+}
+.btnHeader{
+    padding: 30px;
+}
